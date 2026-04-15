@@ -1,9 +1,20 @@
-# my_spring2026_practice_repo
-A demonstration of creating a repo for Stat 184 students.
+# Neil's Practice Repo
 
-Add the following information:
+This repo is a place where I can demonstrate creating and working with GitHub repos for Stat 184 Students
 
-1) Your name
-2) Year in School
-3) Major
-4) Where you hope to be in five years 
+# Data Used
+
+There are currently no data used in this repo.
+
+# Current Plan
+
+We are working on creating/updating README files, we will then talk about creating Issues.
+
+# Repo Organization
+
+This repo is simply organized. Currently, all files live at the top level.
+
+# Contact Information
+
+Any questions about the repo should be directed to
+[Neil Hatfield](mailto:neil.hatfield@psu.edu)
